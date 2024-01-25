@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd300a97-5611-49e3-a55f-09b0e30daf1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Weatherdate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/가야랜드.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/간절곶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/경복궁.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/국립광주과학관.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/국립광주박물관.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/국립생태원.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/남산타워.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/남이섬.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/대관령.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/대흥사.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/독립기념관.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/명선도.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/범어사.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/부석사.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/선유도.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/성산일출봉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/성심당.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/에버랜드.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/오동도.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/워터파크.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/월미도.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/의림지.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/이월드.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/전주한옥마을.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/지리산.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/차이나타운.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/천지연폭포.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/첨성대.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/한국민속촌.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/한밭수목원.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/해운대.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/travel_spot_images/활옥동굴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherApp/templates/weatherApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherApp/templates/weatherApp/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherApp/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bMPPcVJMCg1YZbEBoyOPlEuDro" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shgfd\PycharmProjects\HelloWorld\Weatherdate\media\travel_spot_images" />
+      <recent name="C:\Users\shgfd\PycharmProjects\HelloWorld\Weatherdate\media" />
+      <recent name="C:\Users\shgfd\PycharmProjects\HelloWorld\Weatherdate\weatherApp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Weatherdate" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd300a97-5611-49e3-a55f-09b0e30daf1c" name="Changes" comment="" />
+      <created>1706021951517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706021951517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
